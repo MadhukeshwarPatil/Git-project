@@ -8,7 +8,7 @@ class SumOfNumbers2
         x = sc.nextInt();  
         y = sc.nextInt(); 
         sum = sum(x, y);  
-        System.out.println("The sum of 2 numbers " + x + " and " + y + " is: " +sum );  
+        System.out.println("The sum of two numbers " + x + " and " + y + " is: " +sum );  
     }   
     public static int sum(int a, int b)  
     {  
